@@ -1,0 +1,41 @@
+.cards{
+  border: 1px solid #f1eeee;
+  padding: 1em;
+  width: 305px;
+  box-shadow: 8px 8px #f1eeee;
+  background: linear-gradient(to bottom right,#ff4500, brown, red, orange );
+  border-radius: 15px;
+  
+  }
+.animalName {
+  font-family: cursive, sans-serif;
+}
+.picture {
+  width: 300px;
+  border: 1px solid #f1eeee;
+  }
+
+.top{
+    padding-bottom: 0.8em;
+
+  }
+.funFacts  {
+  font-style: italic;
+  }
+
+.labels {
+  font-weight: bold;
+  }
+
+.informaition-border{
+  border: 1px solid #f1eeee;
+  padding: 0.2em 1em;
+  width: 268px;
+  
+  
+
+  }
+  .informaition-border ul {
+   list-style: none;
+   padding: 0px;
+   }
